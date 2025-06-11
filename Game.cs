@@ -5,8 +5,8 @@ namespace MathGame;
 
 internal class Game
 {
-    private int _score = 0;
-    private List<(Operation operation, int score, Difficulty difficulty, TimeSpan time)> _previousGames = new(){};
+    private int _score;
+    private List<(Operation operation, int score, Difficulty difficulty, TimeSpan time)> _previousGames = new();
     public bool KeepPlaying { get; private set; } = true;
 
     internal void DisplayPreviousGames()
