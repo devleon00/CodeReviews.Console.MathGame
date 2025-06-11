@@ -1,0 +1,17 @@
+/Users/juan/Desktop/C#/TheCSharpAcademy/MathGame/MathGame/bin/Debug/net8.0/MathGame
+/Users/juan/Desktop/C#/TheCSharpAcademy/MathGame/MathGame/bin/Debug/net8.0/MathGame.deps.json
+/Users/juan/Desktop/C#/TheCSharpAcademy/MathGame/MathGame/bin/Debug/net8.0/MathGame.runtimeconfig.json
+/Users/juan/Desktop/C#/TheCSharpAcademy/MathGame/MathGame/bin/Debug/net8.0/MathGame.dll
+/Users/juan/Desktop/C#/TheCSharpAcademy/MathGame/MathGame/bin/Debug/net8.0/MathGame.pdb
+/Users/juan/Desktop/C#/TheCSharpAcademy/MathGame/MathGame/bin/Debug/net8.0/Spectre.Console.dll
+/Users/juan/Desktop/C#/TheCSharpAcademy/MathGame/MathGame/obj/Debug/net8.0/MathGame.csproj.AssemblyReference.cache
+/Users/juan/Desktop/C#/TheCSharpAcademy/MathGame/MathGame/obj/Debug/net8.0/MathGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juan/Desktop/C#/TheCSharpAcademy/MathGame/MathGame/obj/Debug/net8.0/MathGame.AssemblyInfoInputs.cache
+/Users/juan/Desktop/C#/TheCSharpAcademy/MathGame/MathGame/obj/Debug/net8.0/MathGame.AssemblyInfo.cs
+/Users/juan/Desktop/C#/TheCSharpAcademy/MathGame/MathGame/obj/Debug/net8.0/MathGame.csproj.CoreCompileInputs.cache
+/Users/juan/Desktop/C#/TheCSharpAcademy/MathGame/MathGame/obj/Debug/net8.0/MathGame.csproj.Up2Date
+/Users/juan/Desktop/C#/TheCSharpAcademy/MathGame/MathGame/obj/Debug/net8.0/MathGame.dll
+/Users/juan/Desktop/C#/TheCSharpAcademy/MathGame/MathGame/obj/Debug/net8.0/refint/MathGame.dll
+/Users/juan/Desktop/C#/TheCSharpAcademy/MathGame/MathGame/obj/Debug/net8.0/MathGame.pdb
+/Users/juan/Desktop/C#/TheCSharpAcademy/MathGame/MathGame/obj/Debug/net8.0/MathGame.genruntimeconfig.cache
+/Users/juan/Desktop/C#/TheCSharpAcademy/MathGame/MathGame/obj/Debug/net8.0/ref/MathGame.dll

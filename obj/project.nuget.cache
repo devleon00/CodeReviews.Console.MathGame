@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "p7W54MVbtUA=",
+  "success": true,
+  "projectFilePath": "/Users/juan/Desktop/C#/TheCSharpAcademy/MathGame/MathGame/MathGame.csproj",
+  "expectedPackageFiles": [
+    "/Users/juan/.nuget/packages/spectre.console/0.50.0/spectre.console.0.50.0.nupkg.sha512",
+    "/Users/juan/.nuget/packages/system.memory/4.6.3/system.memory.4.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
